@@ -13,7 +13,7 @@
 
 ### 🚀 Sobre mí
 * 📊 Actualmente me desempeño como **Analista de Datos**, construyendo pipelines, automatizando procesos y generando tableros de control.
-* 🎓 Cursando el 4to semestre de **Ingeniería de Datos**, fortaleciendo bases en arquitectura, bases de datos y procesamiento de información.
+* 🎓 Cursando el 4to semestre de **Ingeniería de Sistemas**, fortaleciendo bases en arquitectura, bases de datos y procesamiento de información.
 * 💡 Interesado en la optimización de flujos ETL, modelado de datos y visualización interactiva.
 
 ---
