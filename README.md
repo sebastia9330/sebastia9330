@@ -1,6 +1,6 @@
 <h1 align="center">¡Hola! 👋 Soy Sebastián Felipe Carrero Ortiz</h1>
 <p align="center">
-  <strong>Estudiante de 4to semestre de Ingeniería de Datos</strong> | <strong>Analista de Datos</strong> 
+  <strong>Estudiante de 4to semestre de Ingeniería de Sistemas</strong> | <strong>Analista de Datos</strong> 
   <br>
   Transformando datos complejos en información clara y arquitecturas eficientes desde Bogotá, Colombia. 🇨🇴
 </p>
